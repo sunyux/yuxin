@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yuxin/static/css/main.0b8182c5.css",
+    "main.js": "/yuxin/static/js/main.eef63e03.js",
+    "static/media/Meme.jpg": "/yuxin/static/media/Meme.3349f80647e3366875ec.jpg",
+    "static/media/Yuxin.jpg": "/yuxin/static/media/Yuxin.bff3cbd18d8ce3fa9828.jpg",
+    "static/media/media.jpg": "/yuxin/static/media/media.8f6297a81c1f7387528b.jpg",
+    "static/media/sunyux.jpg": "/yuxin/static/media/sunyux.1f777f9ff23376379f2f.jpg",
+    "static/media/Boba.jpg": "/yuxin/static/media/Boba.1da02a546d19e7319f92.jpg",
+    "static/media/Stroke_Victimm.jpg": "/yuxin/static/media/Stroke_Victimm.989eca9c9be04b1fe025.jpg",
+    "static/media/githublogo.png": "/yuxin/static/media/githublogo.31315c024d5d6c0caaba.png",
+    "static/media/gmaillogo.png": "/yuxin/static/media/gmaillogo.e6e4883466bada701686.png",
+    "static/media/twitterlogo.png": "/yuxin/static/media/twitterlogo.aca174071f535dd764ae.png",
+    "static/media/inslogo.png": "/yuxin/static/media/inslogo.1eea96afb6bb9dd9b2f8.png",
+    "static/media/linkedinlogo.png": "/yuxin/static/media/linkedinlogo.7cf9a7c2215a02715bf0.png",
+    "static/media/cv.png": "/yuxin/static/media/cv.e4ec3a748f1aa7024f43.png",
+    "index.html": "/yuxin/index.html",
+    "main.0b8182c5.css.map": "/yuxin/static/css/main.0b8182c5.css.map",
+    "main.eef63e03.js.map": "/yuxin/static/js/main.eef63e03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b8182c5.css",
+    "static/js/main.eef63e03.js"
+  ]
+}
