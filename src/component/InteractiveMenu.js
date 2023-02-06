@@ -6,6 +6,7 @@ import About from "./About";
 import Project from "./Project";
 import Contact from "./Contact";
 import Skill from "./Skill";
+import ship from "../img/Spaceship.fbx"
 
 const menuItem = [
     {
@@ -29,8 +30,8 @@ const menuItem = [
 
 
 const Bot = () => {
-    const fbx = useFBX('/assets/Spaceship.fbx')
-    return <primitive object={fbx} scale={0.2} rotation={[2.2, -0.3, 0]} />;
+   const fbx = useFBX(ship)
+   return <primitive object={fbx} scale={0.2} rotation={[2.2, -0.3, 0]} />;
 };
 
 const CustomMenu = (props) => {
@@ -71,7 +72,7 @@ const CustomMenu = (props) => {
                     </mesh>
                 </>
             )}
-            <Bot />
+            <Bot/> 
             <EffectComposer>
                 <Bloom luminanceThreshold={0} luminanceSmoothing={0.9} height={100} />
             </EffectComposer>
