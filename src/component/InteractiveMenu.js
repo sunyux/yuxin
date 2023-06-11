@@ -67,7 +67,7 @@ const CustomMenu = (props) => {
                         </Html>
                     </mesh>
                     <mesh scale={[1.7, 0.1, 0.4]} position={[1.88, 0.06, (key + -2) * -0.5]}>
-                        <boxGeometry />
+                    
                         <meshStandardMaterial color="#6600cc" />
                     </mesh>
                 </>
