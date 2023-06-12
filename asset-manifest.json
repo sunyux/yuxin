@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/yuxin/static/css/main.0b8182c5.css",
-    "main.js": "/yuxin/static/js/main.14c2c129.js",
-    "static/media/Spaceship.fbx": "/yuxin/static/media/Spaceship.718c7831d3edd80706b8.fbx",
+    "main.css": "/yuxin/static/css/main.0078d29e.css",
+    "main.js": "/yuxin/static/js/main.841da688.js",
     "static/media/Meme.jpg": "/yuxin/static/media/Meme.3349f80647e3366875ec.jpg",
     "static/media/Yuxin.jpg": "/yuxin/static/media/Yuxin.bff3cbd18d8ce3fa9828.jpg",
     "static/media/media.jpg": "/yuxin/static/media/media.8f6297a81c1f7387528b.jpg",
@@ -16,11 +15,11 @@
     "static/media/linkedinlogo.png": "/yuxin/static/media/linkedinlogo.7cf9a7c2215a02715bf0.png",
     "static/media/cv.png": "/yuxin/static/media/cv.e4ec3a748f1aa7024f43.png",
     "index.html": "/yuxin/index.html",
-    "main.0b8182c5.css.map": "/yuxin/static/css/main.0b8182c5.css.map",
-    "main.14c2c129.js.map": "/yuxin/static/js/main.14c2c129.js.map"
+    "main.0078d29e.css.map": "/yuxin/static/css/main.0078d29e.css.map",
+    "main.841da688.js.map": "/yuxin/static/js/main.841da688.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b8182c5.css",
-    "static/js/main.14c2c129.js"
+    "static/css/main.0078d29e.css",
+    "static/js/main.841da688.js"
   ]
 }
