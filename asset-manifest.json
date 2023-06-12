@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yuxin/static/css/main.0b8182c5.css",
-    "main.js": "/yuxin/static/js/main.72e20146.js",
+    "main.js": "/yuxin/static/js/main.9a87e587.js",
     "static/media/Spaceship.fbx": "/yuxin/static/media/Spaceship.718c7831d3edd80706b8.fbx",
     "static/media/Meme.jpg": "/yuxin/static/media/Meme.3349f80647e3366875ec.jpg",
     "static/media/Yuxin.jpg": "/yuxin/static/media/Yuxin.bff3cbd18d8ce3fa9828.jpg",
@@ -17,10 +17,10 @@
     "static/media/cv.png": "/yuxin/static/media/cv.e4ec3a748f1aa7024f43.png",
     "index.html": "/yuxin/index.html",
     "main.0b8182c5.css.map": "/yuxin/static/css/main.0b8182c5.css.map",
-    "main.72e20146.js.map": "/yuxin/static/js/main.72e20146.js.map"
+    "main.9a87e587.js.map": "/yuxin/static/js/main.9a87e587.js.map"
   },
   "entrypoints": [
     "static/css/main.0b8182c5.css",
-    "static/js/main.72e20146.js"
+    "static/js/main.9a87e587.js"
   ]
 }
