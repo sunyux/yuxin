@@ -5,7 +5,7 @@ import portfolio from '../img/sunyux.jpg'
 import stroke from '../img/Stroke_Victimm.jpg'
 
 const images = [
-    { image: meme, title: "Meme Generator Web Application", desc: "React, Docker and googlecloud" ,link:"https://meme-me3odwmlxq-uw.a.run.app/"},
+    { image: meme, title: "Meme Generator Web Application", desc: "React, Docker and googlecloud" ,link:"https://github.com/sunyux/Meme"},
     { image: media, title: "Social media website", desc: "HTML and CSS",link:"https://github.com/sunyux/stu-media" },
     { image: Boba, title: "UI design if boba search website", desc: "Figma", link:"https://www.figma.com/file/7aV9KXP25BUxDigoo92GMb/Home-page?node-id=0%3A1"},
     { image: portfolio, title: "Personal website", desc: "React, Three.js and Tailwind", link:"https://github.com/sunyux/Portfolio"},

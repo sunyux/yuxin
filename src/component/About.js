@@ -1,4 +1,4 @@
-import profile from '../img/Yuxin.jpg'
+import profile from '../img/Job.jpg'
 import cv from '../img/cv.png'
 
 const About =() =>{
