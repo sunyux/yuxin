@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yuxin/static/css/main.9d30bf80.css",
-    "main.js": "/yuxin/static/js/main.242de3c5.js",
+    "main.css": "/yuxin/static/css/main.5a472136.css",
+    "main.js": "/yuxin/static/js/main.2ec74e67.js",
     "static/media/Meme.jpg": "/yuxin/static/media/Meme.3349f80647e3366875ec.jpg",
     "static/media/media.jpg": "/yuxin/static/media/media.8f6297a81c1f7387528b.jpg",
     "static/media/sunyux.jpg": "/yuxin/static/media/sunyux.1f777f9ff23376379f2f.jpg",
@@ -15,11 +15,11 @@
     "static/media/linkedinlogo.png": "/yuxin/static/media/linkedinlogo.7cf9a7c2215a02715bf0.png",
     "static/media/cv.png": "/yuxin/static/media/cv.e4ec3a748f1aa7024f43.png",
     "index.html": "/yuxin/index.html",
-    "main.9d30bf80.css.map": "/yuxin/static/css/main.9d30bf80.css.map",
-    "main.242de3c5.js.map": "/yuxin/static/js/main.242de3c5.js.map"
+    "main.5a472136.css.map": "/yuxin/static/css/main.5a472136.css.map",
+    "main.2ec74e67.js.map": "/yuxin/static/js/main.2ec74e67.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d30bf80.css",
-    "static/js/main.242de3c5.js"
+    "static/css/main.5a472136.css",
+    "static/js/main.2ec74e67.js"
   ]
 }
