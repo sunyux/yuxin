@@ -259,14 +259,28 @@ const KeyboardVisual = ({ onKeyPress = () => {}, keyColors = {} }) => {
   }, [keyColors, onKeyPress]);
   
   return (
+    <div className="relative w-full h-full">
     <canvas
       ref={canvasRef}
       className="w-full h-full"
-      style={{ 
+      style={{
         background: 'transparent',
-        touchAction: 'none'
+        touchAction: 'none',
+        display: 'block', // prevent margin issues
       }}
     />
+    
+    {/* Button on top of canvas */}
+    <a
+  href="https://sunyux.github.io/ModelsGallery/"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="absolute bottom-4 left-4 z-10 bg-blue-600 text-white px-4 py-2 rounded-lg shadow-lg hover:bg-blue-700 transition-all"
+  style={{ pointerEvents: 'auto' }}
+>
+  More 3D Models →
+</a>
+  </div>
   );
 };
 

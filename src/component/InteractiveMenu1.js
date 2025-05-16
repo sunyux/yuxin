@@ -10,10 +10,10 @@ const menuItem = [
     label: 'About Me',
     content: <About />,
   },
-  {
+  /*{
     label: 'ModelsGallery',
     content: <ModelsGallery />,
-  },
+  },*/
   {
     label: 'Project',
     content: <Project />,
