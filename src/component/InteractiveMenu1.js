@@ -3,11 +3,16 @@ import About from './About';
 import Project from './Project';
 import Contact from './Contact';
 import Skill from './Skill';
+import ModelsGallery from './ModelGallery';
 
 const menuItem = [
   {
     label: 'About Me',
     content: <About />,
+  },
+  {
+    label: 'ModelsGallery',
+    content: <ModelsGallery />,
   },
   {
     label: 'Project',
